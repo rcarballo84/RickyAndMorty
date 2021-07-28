@@ -1,0 +1,32 @@
+com/rcarballo/rickandmortyapp/BR.java
+ com.rcarballo.rickandmortyapp.BR
+com/rcarballo/rickandmortyapp/BuildConfig.java
+ com.rcarballo.rickandmortyapp.BuildConfig
+com/rcarballo/rickandmortyapp/databinding/FragmentItemListBinding.java
+ com.rcarballo.rickandmortyapp.databinding.FragmentItemListBinding
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/rcarballo/rickandmortyapp/databinding/ActivityItemDetailBinding.java
+ com.rcarballo.rickandmortyapp.databinding.ActivityItemDetailBinding
+com/rcarballo/rickandmortyapp/databinding/ItemListContentBindingImpl.java
+ com.rcarballo.rickandmortyapp.databinding.ItemListContentBindingImpl
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/rcarballo/rickandmortyapp/databinding/ItemListContentBinding.java
+ com.rcarballo.rickandmortyapp.databinding.ItemListContentBinding
+com/rcarballo/rickandmortyapp/databinding/FragmentItemListBindingImpl.java
+ com.rcarballo.rickandmortyapp.databinding.FragmentItemListBindingImpl
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/rcarballo/rickandmortyapp/DataBindingTriggerClass.java
+ com.rcarballo.rickandmortyapp.DataBindingTriggerClass
+com/rcarballo/rickandmortyapp/databinding/FragmentItemDetailBindingImpl.java
+ com.rcarballo.rickandmortyapp.databinding.FragmentItemDetailBindingImpl
+com/rcarballo/rickandmortyapp/databinding/FragmentItemDetailBinding.java
+ com.rcarballo.rickandmortyapp.databinding.FragmentItemDetailBinding
+com/rcarballo/rickandmortyapp/DataBinderMapperImpl.java
+ com.rcarballo.rickandmortyapp.DataBinderMapperImpl
+ com.rcarballo.rickandmortyapp.DataBinderMapperImpl$InnerBrLookup
+ com.rcarballo.rickandmortyapp.DataBinderMapperImpl$InnerLayoutIdLookup
+com/rcarballo/rickandmortyapp/databinding/FragmentItemListBindingSw600dpImpl.java
+ com.rcarballo.rickandmortyapp.databinding.FragmentItemListBindingSw600dpImpl
